@@ -1,5 +1,7 @@
 {
   "compilerOptions": {
+    "esModuleInterop": true,
+    "moduleResolution": "Node",
     "rootDir": "src",
     "baseUrl": "src",
     "paths": {
